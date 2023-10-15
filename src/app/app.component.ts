@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { User } from './user.model';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'loteria2-pwa';
+  usuarios: User[] = []; // Inicialize a lista de usuários
+
+  adicionarUsuario(usuario: User): void {
+    // Adicione o novo usuário à lista de usuários
+    this.usuarios.push(usuario);
+  }
+
 }
