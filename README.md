@@ -6,7 +6,7 @@ Endereço do projeto - https://github.com/MarciaStank/loteria2-pwa
 
 Endereço de Deploy - GitHub Pages: https://marciastank.github.io/loteria2-pwa/
 
-Endereço para o video explicativo no Youtube: https://youtu.be/9RoIjMQ-Tgo
+Endereço para o video explicativo no Youtube: https://www.youtube.com/watch?v=cGQqVQhZM1U
 
 Checklist:
 
